@@ -10,6 +10,22 @@ Es wird die aktuellste Version v21 unterstüzt.
 
 Ich übernehme keinerlei Haftung für den reibungsosen Betrieb dieses Images.
 
+es sollten alle Dateien im DB Ordner kopiert werden :
+
+DB6.FDB
+DB4.FDB
+DB5.FDB
+DB3.FDB
+DB8.FDB
+DB0.FDB
+DB1.FDB
+DB2.FDB
+DB7.FDB
+DB9.FDB
+CENTRALDB.FDB
+
+Es sind keinerlei weitere anpassung in den dll's nötig.
+
 https://hub.docker.com/r/chrishdx/orgamaxserver
 
 
