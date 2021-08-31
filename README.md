@@ -6,7 +6,7 @@ Es sollten die Ports 5143 TCP/UDP freigegeben werden bestenfalls noch der Port 8
 
 Über die Weboberfläche kann man die Datenbanken hochladen die angepasste ini sowie die Datenbanken auch wieder downloaden.
 
-Ich übernehme keinerlei Haftung für den Reibungsosen Betrieb dieses Images.
+Ich übernehme keinerlei Haftung für den reibungsosen Betrieb dieses Images.
 
 https://hub.docker.com/r/chrishdx/orgamaxserver
 
